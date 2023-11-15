@@ -1,0 +1,10 @@
+john pass 83
+oak pass 10
+tenda pass 74
+rey pass 32
+randy pass 51
+chris pass 43
+garry pass 94
+root pass 62
+act pass 39
+boat pass 27
